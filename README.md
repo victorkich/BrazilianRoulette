@@ -1,6 +1,6 @@
 <h2 align="center">Experimental Analysis of Trend-based Betting Methods Applied to Brazilian Roulette</h2>
 
-## Setup
+### Setup
 <p align="justify"> 
  <a>First of all, you need to install all the modules requirements:</a>
 </p>
