@@ -2,7 +2,7 @@
 
 ## Setup
 <p align="justify"> 
- <a>AFirst of all, you need to install all the modules requirements:</a>
+ <a>First of all, you need to install all the modules requirements:</a>
 </p>
 
 ```shell
